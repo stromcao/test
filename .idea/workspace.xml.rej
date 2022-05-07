@@ -1,0 +1,27 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="04521764-2300-4349-b8f6-1b8f4949c938" name="变更" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -65,7 +66,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1651922096805</updated>
+-      <workItem from="1651922106328" duration="126000" />
++      <workItem from="1651922106328" duration="502000" />
+     </task>
+     <servers />
+   </component>
+@@ -83,4 +84,7 @@
+       </map>
+     </option>
+   </component>
++  <component name="com.intellij.coverage.CoverageDataManagerImpl">
++    <SUITE FILE_PATH="coverage/test$helloworld.coverage" NAME="helloworld 覆盖结果" MODIFIED="1651922233571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
++  </component>
+ </project>
+\ No newline at end of file
